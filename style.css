@@ -1,0 +1,19 @@
+h1, h2 {
+  text-align: center;
+  font-family: 'Tangerine', sans-serif;
+  color: yellow;
+  font-size: 450%
+}
+
+.intro {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+body {
+  background: url("surfing.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Inconsolata', sans-serif;
+  color: yellow;
+}
